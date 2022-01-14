@@ -1,0 +1,19 @@
+{
+  "name": "learningnotes",
+  "version": "1.0.0",
+  "description": "学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wenjing1998/LearningNotes.git"
+  },
+  "author": "wenjing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenjing1998/LearningNotes/issues"
+  },
+  "homepage": "https://github.com/wenjing1998/LearningNotes#readme"
+}
